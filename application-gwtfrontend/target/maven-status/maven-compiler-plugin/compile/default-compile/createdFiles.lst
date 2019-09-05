@@ -1,0 +1,17 @@
+webapp/gwtfrontend/common/ApplicationMessages.class
+webapp/gwtfrontend/common/ApplicationUtils.class
+webapp/gwtfrontend/main/MainEventBus.class
+webapp/gwtfrontend/common/ApplicationValidationFactory.class
+webapp/gwtfrontend/main/MainConstants.class
+webapp/gwtfrontend/main/MainInjector.class
+webapp/gwtfrontend/main/MainMessages.class
+webapp/gwtfrontend/main/presenters/impl/live/MainModuleLayoutManagerPresenter.class
+webapp/gwtfrontend/main/views/impl/live/MainModuleLayoutManagerView.class
+webapp/gwtfrontend/main/MainImages.class
+webapp/gwtfrontend/main/MainGinModule.class
+webapp/gwtfrontend/common/ApplicationGinModule.class
+webapp/gwtfrontend/main/views/impl/live/MainModuleLayoutManagerView$BodyUiBinder.class
+webapp/gwtfrontend/common/ApplicationImages.class
+webapp/gwtfrontend/common/ApplicationConstants.class
+webapp/gwtfrontend/common/ApplicationInjector.class
+webapp/gwtfrontend/common/ApplicationValidationFactory$GwtValidator.class
